@@ -10,7 +10,8 @@
 
 ## Features
 
-- Add products to your database
+- Auth
+- Add products to your firebase database
 - Creating a company and adding your employees to the company
 - Placing intercompany orders and tracking the status of those orders
 
