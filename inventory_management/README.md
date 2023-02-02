@@ -1,16 +1,27 @@
-# inventory_management
+# Order tracking (Inventory management app)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Features
+
+- Add products to your database
+- Creating a company and adding your employees to the company
+- Placing intercompany orders and tracking the status of those orders
+- Drag and drop markdown and HTML files into Dillinger
+- Export documents as Markdown, HTML and PDF
+
+This application does not target UI and frontend in general. The main purpose of this application is how to make an order tracking and inventory management application.
+In the application, you can set up a company and add your own employees to that company and then place orders for other companies and follow the status of these orders. You can also add new products to your database and include these products in your orders. The orders placed are displayed on the screen of the company that placed the order and the company that received the order. Employees of both companies can see these orders.
+
+
+
+
+
+
+
